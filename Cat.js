@@ -1,3 +1,2 @@
-function Cat() {
-    this.name = name
-}
+function Cat() {}
+module.exports = Cat
