@@ -8,3 +8,4 @@ Mouse.prototype.die = function() {
 module.exports = Mouse;
 
 print("demo git push")
+print("demo git credential")
