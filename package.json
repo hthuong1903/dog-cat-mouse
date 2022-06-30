@@ -1,0 +1,22 @@
+{
+  "name": "1-commit",
+  "version": "1.0.0",
+  "description": "This project is just a demo how to use git",
+  "main": "Cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hthuong1903/dog-cat-mouse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hthuong1903/dog-cat-mouse/issues"
+  },
+  "homepage": "https://github.com/hthuong1903/dog-cat-mouse#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
